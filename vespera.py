@@ -1,6 +1,3 @@
-Отлично, спасибо! Замените `YOUR_TOKEN_HERE` на ваш токен в следующем коде, чтобы создать бота, который будет использовать мой API для генерации текста и ответов на запросы пользователей в чате Telegram.
-
-```python
 import logging
 import telegram
 from telegram.ext import Updater, MessageHandler, Filters
