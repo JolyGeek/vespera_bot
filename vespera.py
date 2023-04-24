@@ -34,3 +34,4 @@ updater.start_polling()
 
 # Останавливаем бота при нажатии Ctrl+C
 updater.idle()
+
