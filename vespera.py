@@ -34,6 +34,3 @@ updater.start_polling()
 
 # Останавливаем бота при нажатии Ctrl+C
 updater.idle()
-```
-
-Не забудьте установить библиотеку python-telegram-bot перед запуском этого кода, используя команду `pip install python-telegram-bot`.
